@@ -1,0 +1,2 @@
+"c.InteractiveShellApp.extensions.append('sparkmonitor.kernelextension')"  profile locate default)/ipython_kernel_config.pyimport sparkmonitor
+"c.InteractiveShellApp.extensions.append('sparkmonitor.kernelextension')"  profile locate default)/ipython_kernel_config.py
